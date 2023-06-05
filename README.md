@@ -1,5 +1,5 @@
 ## “Há um tempo para cada coisa”
-### Olá eu  sou  Magno De Oliveira👋
+### Magno De Oliveira👋
 
 ##
 ![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnoolivee&show_icons=true&theme=transparent)
