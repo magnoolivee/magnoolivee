@@ -1,7 +1,7 @@
-## “Há um tempo para cada coisa”
-### Magno De Oliveira👋
+### “Há um tempo para cada coisa”
 
-##
+#
+
 ![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnoolivee&show_icons=true&theme=transparent)
 
 
