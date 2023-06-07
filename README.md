@@ -1,4 +1,5 @@
-### “Há um tempo para cada coisa”
+## “Há um tempo para cada coisa”
+### Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
 
 #
 
