@@ -1,6 +1,6 @@
 ### "Há um tempo para cada coisa." 
 Então vá com calma e faça as coisas bem feitas, mesmo que ninguém esteja olhando. <br>
-E não esqueça que a prática leva à perfeição do código...
+Não esqueça que a prática leva à perfeição do código...
 
 #
 
