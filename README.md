@@ -1,5 +1,4 @@
-### “Há um tempo para cada coisa”
-### Faça as coisas bem feitas, mesmo que ninguém esteja olhando.
+### Há um tempo para cada coisa. Então vá com calma e faça as coisas bem feitas, mesmo que ninguém esteja olhando. Não esqueça que a prática leva à perfeição...
 
 #
 
