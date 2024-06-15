@@ -4,7 +4,7 @@ A prática leva à perfeição...
 
 #
 
-![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnoolivee&show_icons=true&theme=transparent)
+<img src="https://github.com/magnoolivee/magnoolivee/blob/main/assets/gifs/matrix.gif?raw=true" width="500">
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Magno-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  &nbsp;
@@ -16,6 +16,4 @@ A prática leva à perfeição...
    
   #
    
-  <img src="https://github.com/magnoolivee/magnoolivee/blob/main/assets/gifs/matrix.gif?raw=true" width="500">
-
-  
+![Magno's GitHub stats](https://github-readme-stats.vercel.app/api?username=magnoolivee&show_icons=true&theme=transparent)
