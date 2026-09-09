@@ -51,11 +51,11 @@ Hoje, utilizo a lógica de programação, o desenvolvimento de APIs, o tratament
 
 ## 📈 Projetos em Destaque
 
-### 🛠️ Monitoramento de Performance Operacional (JavaScript)
+### 🛠️ Monitoramento de Performance Operacional (Pojeto Real)
 - **Descrição:** Identifiquei gargalos operacionais em um ambiente de atendimento manual e desenvolvi uma ferramenta de monitoramento de performance em tempo real. Implementei melhorias e novas funções automatizadas para o time de Backoffice, reduzindo significativamente o Tempo Médio Operacional (TMO) e otimizando a produtividade diária.
 - **Tecnologias:** JavaScript, Automação de Processos.
 
-### ☕ API RESTful para Sistemas de Recrutamento (Bootcamp)
+### ☕ API RESTful para Sistemas de Recrutamento (Projeto acadêmico para oBootcamp)
 - **Descrição:** Atuei na construção de uma API RESTful voltada para sistemas de recrutamento utilizando o ecossistema Spring, garantindo a persistência estruturada de dados e segurança de acesso.
 - **Tecnologias:** Java, Spring Boot, Spring Data, Spring Security, MySQL, React.
 - **Repositório:** [Acessar Projeto](https://github.com)
