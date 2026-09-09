@@ -1,76 +1,78 @@
+# Hello, World! 👋 Eu sou o Magno de Oliveira
 
-# Hello, World! 👋
-# Eu Sou [Magno De Oliveira](https://www.linkedin.com/in/magnoolivee/)
-### "Há um tempo para cada coisa." 
-Faça as coisas bem feitas, mesmo que ninguém esteja olhando. <br>
-A prática leva à perfeição...
+<p align="left">
+  <a href="https://www.linkedin.com/in/magnoolivee/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:magnoolivee@outlook.com"><img src="https://shields.io" alt="Email"></a>
+</p>
 
+> *"Há um tempo para cada coisa. Faça as coisas bem feitas, mesmo que ninguém esteja olhando. A prática leva à perfeição."*
 
+---
 
-## Sobre Mim
+## 🚀 Sobre Mim
 
-- 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Iniciei minha jornada na programação em janeiro de 2023.
-- 💼 Fiz uma transição de carreira da área de eletricista para a área de desenvolvimento de software.
+Sou **Desenvolvedor Full Stack** focado em **Automação de Processos** e **Eficiência Operacional**. Minha trajetória conta com uma sólida bagagem em resolução de problemas sob pressão e otimização de processos práticos (com experiência prévia como eletricista, operador de telemarketing e auxiliar de cozinha).
 
-## Conhecimentos
+Hoje, utilizo a lógica de programação, o desenvolvimento de APIs, o tratamento de dados e o uso estratégico de IA para mapear gargalos e eliminar tarefas manuais no ambiente corporativo.
 
-### Básicos:
-Habilidades Básicas e Iniciais:
+- 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas (ADS).
+- 📚 **Pós-Graduando** em Desenvolvimento Web Full Stack.
+- 💡 **Mindset AI-First:** Focado em integrar Inteligência Artificial (LLMs) e ferramentas como N8N para acelerar entregas e otimizar rotinas.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### 💻 Desenvolvimento Full Stack & Código
 <div style="display: inline-block;">
-    <!-- HTML -->
-    <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="width: auto; height: 30px;"></a>
-    <!-- CSS -->
-    <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="width: auto; height: 30px;"></a>
-    <!-- JavaScript -->
-    <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="width: auto; height: 30px;"></a>
-    <!-- Git -->
-    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" style="width: auto; height: 30px;"></a>
+  <img src="https://shields.io" alt="Python">
+  <img src="https://shields.io" alt="JavaScript">
+  <img src="https://shields.io" alt="Java">
+  <img src="https://shields.io" alt="Spring Boot">
 </div>
 
-## Cursos
+### 🤖 Automação & Integrações (AI-First)
+<div style="display: inline-block;">
+  <img src="https://shields.io" alt="n8n">
+  <img src="https://shields.io" alt="Claude AI">
+  <img src="https://shields.io" alt="APIs REST">
+</div>
 
-- Lógica de Programação com JavaScript   [Link aqui](https://www.dio.me/certificate/CRS58TPQ/share) 
+### 🗄️ Bancos de Dados & Infraestrutura
+<div style="display: inline-block;">
+  <img src="https://shields.io" alt="MySQL">
+  <img src="https://shields.io" alt="Docker">
+  <img src="https://shields.io" alt="Git">
+  <img src="https://shields.io" alt="GitHub">
+</div>
 
-## Contato
+---
 
-Se você quiser entrar em contato, sinta-se à vontade para falar comigo:
+## 📈 Projetos em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magnoolivee/) 
+### 🛠️ Monitoramento de Performance Operacional (JavaScript)
+- **Descrição:** Identifiquei gargalos operacionais em um ambiente de atendimento manual e desenvolvi uma ferramenta de monitoramento de performance em tempo real. Implementei melhorias e novas funções automatizadas para o time de Backoffice, reduzindo significativamente o Tempo Médio Operacional (TMO) e otimizando a produtividade diária.
+- **Tecnologias:** JavaScript, Automação de Processos.
 
-www.linkedin.com/in/magnoolivee/
+### ☕ API RESTful para Sistemas de Recrutamento (Bootcamp)
+- **Descrição:** Atuei na construção de uma API RESTful voltada para sistemas de recrutamento utilizando o ecossistema Spring, garantindo a persistência estruturada de dados e segurança de acesso.
+- **Tecnologias:** Java, Spring Boot, Spring Data, Spring Security, MySQL, React.
+- **Repositório:** [Acessar Projeto](https://github.com)
 
+---
 
+## 📊 Estatísticas
 
+<p align="left">
+  <img src="https://vercel.app" alt="Stats de Magno" height="150">
+  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150">
+</p>
 
+---
 
+## 📬 Contato
 
+Sinta-se à vontade para entrar em contato comigo para conversar sobre desenvolvimento, APIs e automações!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
+- **LinkedIn:** [linkedin.com/in/magnoolivee](https://www.linkedin.com/in/magnoolivee/)
+- **E-mail:** [magnoolivee@outlook.com](mailto:magnoolivee@outlook.com)
