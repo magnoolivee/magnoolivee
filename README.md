@@ -18,6 +18,7 @@ Hoje, utilizo a lógica de programação, o desenvolvimento de APIs, o tratament
 - 🎓 **Graduado** em Análise e Desenvolvimento de Sistemas (ADS).
 - 📚 **Pós-Graduando** em Desenvolvimento Web Full Stack.
 - 💡 **Mindset AI-First:** Focado em integrar Inteligência Artificial (LLMs) e ferramentas como N8N para acelerar entregas e otimizar rotinas.
+- 📚 **GitHub Academico:** [magnostudent](https://github.com/magnostudent)
 
 ---
 
@@ -76,3 +77,4 @@ Sinta-se à vontade para entrar em contato comigo para conversar sobre desenvolv
 
 - **LinkedIn:** [linkedin.com/in/magnoolivee](https://www.linkedin.com/in/magnoolivee/)
 - **E-mail:** [magnoolivee@outlook.com](mailto:magnoolivee@outlook.com)
+
